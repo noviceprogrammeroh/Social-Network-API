@@ -15,9 +15,12 @@ This application allows us to search a list of users, thoughts, friends, and rea
 
 ## Sreenshots of the web page ##
 
-![This is an image](/Assets/categories.JPG)
-![This is an image](/Assets/products.JPG)
-![This is an image](/Assets/put.JPG)
+![This is an image](./Assets/getusers.JPG)
+![This is an image](./Assets/deleteuser.jpg)
+![This is an image](./Assets/addfriend.JPG)
+![This is an image](./Assets/addthought.JPG)
+![This is an image](./Assets/addreaction.JPG)
+
 
 ## Installation ##
 This application requires node and several dependencies like express, mysql, and Mongoose to run. The application can be started with npm start and for api endpoints testing, you can use Insomnia. 
